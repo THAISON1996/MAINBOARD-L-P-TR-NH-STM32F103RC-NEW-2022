@@ -1,3 +1,3 @@
-Dự án của khách hàng đã ra sẩn phẩm
+Dự án của khách hàng đã ra sản phẩm
 # MAINBOARD-STM32F103RC
 MAINBOARD LẬP TRÌNH STM32F103RC NEW 2022
