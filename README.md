@@ -2,9 +2,9 @@ Dự án của khách hàng đã ra sản phẩm
 # MAINBOARD-STM32F103RC
 MAINBOARD LẬP TRÌNH STM32F103RC NEW 2022
   Thông tin sản phẩm
-✔️#1. Nguồn cấp: 24VDC
-✔️#2. Input cách ly quang x 08 kênh (Ngõ vào tích mức thấp)
-✔️#3. Analog input x 04 kênh (0-10V)
+✔️#.1. Nguồn cấp: 24VDC.
+✔️#2. Input cách ly quang x 08 kênh (Ngõ vào tích mức thấp).
+✔️#3. Analog input x 04 kênh (0-10V).
 ✔️#4. Analog Output x 04 kênh (0-10V)
 ✔️#5. Output Relay x 08 kênh
 ✔️#6. Output Transistor NPN x 02 kênh, cho phép điều khiển tốc độ cao.
